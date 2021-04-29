@@ -1,6 +1,4 @@
-# softwareOperation
-
-## 一、目的
+## Typora配置OSS图床
 
 使用Typora创建markdown笔记时，图片存放位置是一个痛点。放在本地在笔记转移或发布在博客平台时会有图片路径问题，需要再次上传图片，苦不堪言。
 
