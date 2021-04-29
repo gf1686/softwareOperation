@@ -36,7 +36,7 @@ SUMMARY.md（书籍的目录结构在这里配置）
 
 上面说到SUMMRAY.md文件就是整个文件夹的目录，写目录其实就是编辑这个文件，刚打开时这个文件里什么都没有，我先在给他编写一下:
 
-<img src="http://demo-gf.oss-cn-beijing.aliyuncs.com/image/20760577-3ddc5c272c9e9671" alt="img" style="zoom: 50%;" />
+![image-20210429140252036](http://demo-gf.oss-cn-beijing.aliyuncs.com/image/image-20210429140252036.png)
 
 在给大家看看源代码:
 
@@ -61,7 +61,7 @@ SUMMARY.md（书籍的目录结构在这里配置）
 
 写完目录后再次执行`gitbook init` Gitbook会查找SUMMARY.md中描述的目录和文件，如果没有则会创建。上面的目录运行后是这样的
 
-<img src="http://demo-gf.oss-cn-beijing.aliyuncs.com/image/20760577-f47d7aa347831f03" alt="img" style="zoom:50%;" />
+<img src="http://demo-gf.oss-cn-beijing.aliyuncs.com/image/image-20210429140316212.png" alt="image-20210429140316212" style="zoom:50%;" />
 
 ## 3.2 写笔记
 
@@ -71,7 +71,7 @@ SUMMARY.md（书籍的目录结构在这里配置）
 
 在typora中使用crtl + 1~6可以创建1-6级标题，1级最大，6级最小。同时typora的大纲会显示所有标题，如图：
 
-<img src="http://demo-gf.oss-cn-beijing.aliyuncs.com/image/20760577-f7f5dc70573ad11f" alt="img" style="zoom:50%;" />
+<img src="http://demo-gf.oss-cn-beijing.aliyuncs.com/image/image-20210429140348215.png" alt="image-20210429140348215" style="zoom:50%;" />
 
 ## 3.4 表格
 
